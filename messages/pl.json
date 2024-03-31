@@ -1,0 +1,21 @@
+{
+	"IndexPage": {
+		"name": "Tetiana Palii",
+		"description": "Cześć! Jestem  FullStack Developerem. Posiadam praktyczne doświadczenie tworzenia responsywnych interfejsów użytkownika oraz programów REST API na node.js"
+	},
+	"NotFoundPage": {
+		"title": "Page Not Found",
+		"description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+	},
+	"Navigation": {
+		"contact": "Skontaktuj się ze mną",
+		"projects": "projekty",
+		"skills": "Umiejętności techniczne"
+	},
+	"Footer": {
+		"copyright": "© 2024 Portfolio. Wszelkie prawa zastrzeżone.",
+		"telegram": "https://t.me/TetianaPalii",
+		"linkedIn": "linkedin.com/in/tetiana-palii",
+		"email": "tpalii1945@gmail.com"
+	}
+}

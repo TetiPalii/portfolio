@@ -1,0 +1,21 @@
+{
+	"IndexPage": {
+		"name": "Tetiana Palii",
+		"description": "Hello! I`m a FullStack developer with practical experience of creating responsive UI and node.js REST API "
+	},
+	"NotFoundPage": {
+		"title": "Page Not Found",
+		"description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+	},
+	"Navigation": {
+		"contact": "Contact me",
+		"projects": "projects",
+		"skills": "Tech skills"
+	},
+	"Footer": {
+		"copyright": "© 2024 Your App. All rights reserved.",
+		"telegram": "https://t.me/TetianaPalii",
+		"linkedIn": "linkedin.com/in/tetiana-palii",
+		"email": "tpalii1945@gmail.com"
+	}
+}
