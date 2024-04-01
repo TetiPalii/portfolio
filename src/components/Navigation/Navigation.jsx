@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export const Navigation = () => {
     const t= useTranslations("Navigation")
-    return <nav className="flex flex-col md:flex-row justify-between">
+    return <nav className="flex justify-end gap-3">
         <Link href={'/'}>{t("contact")}</Link>
         <Link href={'/'}>{t("skills")}</Link>
         <Link href={'/'}>{t("projects")}</Link>

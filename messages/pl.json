@@ -9,7 +9,7 @@
 	},
 	"Navigation": {
 		"contact": "Skontaktuj się ze mną",
-		"projects": "projekty",
+		"projects": "Projekty",
 		"skills": "Umiejętności techniczne"
 	},
 	"Footer": {
@@ -17,5 +17,20 @@
 		"telegram": "https://t.me/TetianaPalii",
 		"linkedIn": "linkedin.com/in/tetiana-palii",
 		"email": "tpalii1945@gmail.com"
+	},
+	"Projects": {
+		"movies": {
+			"projectName": "Wyszukiwarka Filmowa",
+			"description": "Projekt indywidualny, interaktywna wyszukiwarka filmowa, w której wykorzystano bibliotekę React Router. Umożliwia ona płynne przechodzenie między różnymi stronami, cofanie się do poprzednich stron, przy jednoczesnym zachowaniu aktualnego stanu wyszukiwania."
+		},
+		"phonebook": {
+			"projectName": "Książka telefoniczna",
+			"description": "Książka telefoniczna z możliwością rejestracji, logowania i dodawania kontaktów. Dostęp do kontaktów ma wyłącznie zalogowany użytkownik, który je dodał. Project indywidualny"
+		},
+		"goosetrack": {
+			"projectName": "GooseTrack",
+			"description": "Project grupowy. Jako developer, stworzyłam profil użytkownika. Formularz oraz walidacja pól była realizowana za pomocą bibliotek Formik oraz Yup."
+		},
+		"open": "otwórz"
 	}
 }
