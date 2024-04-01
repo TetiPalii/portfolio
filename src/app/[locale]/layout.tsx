@@ -10,7 +10,7 @@ export default function LocaleLayout({
 }) {
   return (
     <html lang={locale}>
-      <body className="bg-[url('/images/heroMobile2x.jpg')] md:bg-[url('/images/heroTab2x.jpg')] xl:bg-[url('/images/heroDesk2x.jpg')] h-full w-full object-none bg-no-repeat text-white overflow-auto">
+      <body className="h-full w-full text-white overflow-auto">
         <Header />
         <main> {children}</main>
         <Footer />
