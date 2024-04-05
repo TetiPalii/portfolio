@@ -5,8 +5,8 @@ import { SkillsList } from "./SkillsList";
 
 export const Skills = () => {
     const t = useTranslations("Navigation")
-    return <section className="px-4 pt-8">
-        <h2 className="text-2xl text-center">{t('skills')}</h2>
+    return <section className="px-4 pt-16 font-serif ">
+        <h2 className="text-4xl text-center mb-10 leading-3 font-bold font-serif">{t('skills')}</h2>
         <SkillsList mySkills={mySkills } />
     </section>
 }

@@ -29,4 +29,7 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .about{
+    background: radial-gradient(circle, rgba(123,170,204,1) 0%, rgba(31,29,46,1) 100%);
+  }
 }

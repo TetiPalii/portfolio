@@ -1,10 +1,7 @@
 import { Icon } from '../components/Icon/Icon.jsx'
 
 export const icons = [
-    {
-        icon: <Icon iconName={'linkedin'} />,
-        href: "https://linkedin.com/in/tetiana-palii"
-    },
+   
     {
         icon: < Icon iconName={'telegram'} />,
         href: "https://t.me/TetianaPalii"
@@ -12,6 +9,10 @@ export const icons = [
     {
         icon: <Icon iconName={'github'} />,
         href: "https://github.com/TetiPalii"
+    },
+    {
+        icon: <Icon iconName={'linkedin'} />,
+        href: "https://linkedin.com/in/tetiana-palii"
     },
     {
         icon: <Icon iconName={'email'} />,
