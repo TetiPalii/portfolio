@@ -3,6 +3,33 @@ export const projects = [
         name: [
             {
                 lang: "/en",
+                value:"Nechupara"
+            }, {
+                lang: "/pl",
+                value:"Neczupara"
+            }
+        ],
+        description: [
+            {
+                lang: "/en",
+                value: 'Children`s goods marketplace. Group Next.js/Typescript project. The project is at the development stage.  Available functionality: mobile menu for devices smaller than 768px, site navigation, registration (access code 1111), login (access code 2222), logout.'
+            },
+            {
+                lang: "/pl",
+                value:"Internetowa platforma sprzedażowa artykułów dziecięcych. Projekt grupowy na Next.js/Typescript. Projekt jest na etapie rozwoju.  Dostępna funkcjonalność: menu mobilne dla urządzeń mniejszych niż 768px, nawigacja witryny, rejestracja (kod dostępu 1111), logowanie (kod dostępu 2222), wylogowanie."
+            }
+
+        ],
+        github: "https://github.com/TetiPalii/marketplace-front",
+        project: "https://marketplace-front-hush.vercel.app/",
+        alt: "mobile menu",
+        img1:"/nechupara.jpg"
+       
+    },
+    {
+        name: [
+            {
+                lang: "/en",
                 value: "Movies Search"
             },
             {

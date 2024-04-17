@@ -19,18 +19,6 @@
 		"email": "tpalii1945@gmail.com"
 	},
 	"Projects": {
-		"movies": {
-			"projectName": "Movies Search",
-			"description": "An interactive movie search web app was created using the React Router library. It allows you to smoothly move between different pages, go back to previous pages, while maintaining the current search status."
-		},
-		"phonebook": {
-			"projectName": "Phonebook",
-			"description": "A web application of phonebook with the ability to register, log in and add contacts. Access to the contacts is restricted to the logged-in user who added them."
-		},
-		"goosetrack": {
-			"projectName": "GooseTrack",
-			"description": "Group project. As a developer, I created UserForm. The form and validation were realised with the help of Formik and Yup."
-		},
 		"open": "open"
 	}
 }

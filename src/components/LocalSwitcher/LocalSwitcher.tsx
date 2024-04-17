@@ -18,7 +18,7 @@ export const LocalSwitcher = () => {
         <p className='sr-only'>change language</p>
         <select
             defaultValue={localActive}
-            className='bg-transparent py-2 font-semibold font-serif hover:text-red-900 cursor-pointer'
+            className='bg-transparent py-2 font-semibold font-serif hover:text-red-900 transition-colors cursor-pointer'
             onChange={onSelectChange}
             disabled={isPending}
         >
