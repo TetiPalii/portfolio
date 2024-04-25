@@ -22,7 +22,9 @@ body {
   color: rgb(var(--foreground-rgb));
   background: rgb(123,170,204);
   background: radial-gradient(circle, rgba(123,170,204,1) 0%, rgba(31,29,46,1) 100%);
-    font-family: 'Intel';
+  font-family: 'Intel';
+    scroll-behavior: smooth;
+    
 }
 
 @layer utilities {
@@ -31,5 +33,10 @@ body {
   }
   .about{
     background: radial-gradient(circle, rgba(123,170,204,1) 0%, rgba(31,29,46,1) 100%);
+  }
+}
+@layer base{
+  html{
+    scroll-behavior: smooth;
   }
 }

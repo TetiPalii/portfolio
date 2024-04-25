@@ -11,8 +11,8 @@ export default function LocaleLayout({
   params: { locale: string };
 }) {
   return (
-    <html lang={locale}>
-      <body className={`h-full w-full text-white overflow-auto ${inter.className}`}>
+    <html lang={locale} className="font-serif">
+      <body className={`h-full w-full text-white overflow-auto font-serif`}>
         <Header />
         <main> {children}</main>
         <Footer />
